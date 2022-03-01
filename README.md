@@ -1,2 +1,1 @@
-# DWM
-Dynamic Window Manager
+# Suckless

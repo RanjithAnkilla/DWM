@@ -135,45 +135,45 @@ static const char dmenufont[]       = "SF Mono:size=10";
 
 static char c000000[]                    = "#000000"; // placeholder value
 
-static char normfgcolor[]                = "#3d405b";
-static char normbgcolor[]                = "#f2cc8f";
-static char normbordercolor[]            = "#f2cc8f";
-static char normfloatcolor[]             = "#db8fd9";
+static char normfgcolor[]                = "#a9b1d6";
+static char normbgcolor[]                = "#24283b";
+static char normbordercolor[]            = "#24283b";
+static char normfloatcolor[]             = "#bb9af7";
 
-static char selfgcolor[]                 = "#3d405b";
-static char selbgcolor[]                 = "#81b29a";
-static char selbordercolor[]             = "#81b29a";
-static char selfloatcolor[]              = "#81b29a";
+static char selfgcolor[]                 = "#a9b1d6";
+static char selbgcolor[]                 = "#565f89";
+static char selbordercolor[]             = "#565f89";
+static char selfloatcolor[]              = "#565f89";
 
-static char titlenormfgcolor[]           = "#3d405b";
-static char titlenormbgcolor[]           = "#f2cc8f";
-static char titlenormbordercolor[]       = "#f2cc8f";
-static char titlenormfloatcolor[]        = "#db8fd9";
+static char titlenormfgcolor[]           = "#a9b1d6";
+static char titlenormbgcolor[]           = "#24283b";
+static char titlenormbordercolor[]       = "#24283b";
+static char titlenormfloatcolor[]        = "#bb9af7";
 
-static char titleselfgcolor[]            = "#222222";
-static char titleselbgcolor[]            = "#81b29a";
-static char titleselbordercolor[]        = "#81b29a";
-static char titleselfloatcolor[]         = "#81b29a";
+static char titleselfgcolor[]            = "#a9b1d6";
+static char titleselbgcolor[]            = "#565f89";
+static char titleselbordercolor[]        = "#565f89";
+static char titleselfloatcolor[]         = "#565f89";
 
-static char tagsnormfgcolor[]            = "#3d405b";
-static char tagsnormbgcolor[]            = "#f2cc8f";
-static char tagsnormbordercolor[]        = "#f2cc8f";
-static char tagsnormfloatcolor[]         = "#db8fd9";
+static char tagsnormfgcolor[]            = "#a9b1d6";
+static char tagsnormbgcolor[]            = "#24283b";
+static char tagsnormbordercolor[]        = "#24283b";
+static char tagsnormfloatcolor[]         = "#bb9af7";
 
-static char tagsselfgcolor[]             = "#222222";
-static char tagsselbgcolor[]             = "#81b29a";
-static char tagsselbordercolor[]         = "#81b29a";
-static char tagsselfloatcolor[]          = "#81b29a";
+static char tagsselfgcolor[]             = "#a9b1d6";
+static char tagsselbgcolor[]             = "#565f89";
+static char tagsselbordercolor[]         = "#565f89";
+static char tagsselfloatcolor[]          = "#565f89";
 
-static char hidnormfgcolor[]             = "#f2cc8f";
-static char hidselfgcolor[]              = "#f2cc8f";
-static char hidnormbgcolor[]             = "#222222";
-static char hidselbgcolor[]              = "#222222";
+static char hidnormfgcolor[]             = "#24283b";
+static char hidselfgcolor[]              = "#24283b";
+static char hidnormbgcolor[]             = "#a9b1d6";
+static char hidselbgcolor[]              = "#a9b1d6";
 
 static char urgfgcolor[]                 = "#bbbbbb";
 static char urgbgcolor[]                 = "#222222";
 static char urgbordercolor[]             = "#ff0000";
-static char urgfloatcolor[]              = "#db8fd9";
+static char urgfloatcolor[]              = "#bb9af7";
 
 #if BAR_FLEXWINTITLE_PATCH
 static char normTTBbgcolor[]             = "#330000";
